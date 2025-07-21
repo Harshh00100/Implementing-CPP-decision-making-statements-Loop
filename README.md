@@ -11,6 +11,16 @@ The program simply prints even numbers from 1 to 10. It goes through each number
 
 #program 2 "SIT" using loops
 
+Algorithm:
+1. Initialize a loop control variable (e.g., int i = 0)
+2. Check Condition (e.g., i < 5)
+3. If true, proceed to the loop body
+4. If false, exit the loop
+5. Execute the loop body
+6. Increment/Update the control variable (e.g., i++)
+7. Repeat from step 2
+
+
 This program uses a for loop to print the word “SIT” five times, each time with a number in front of it, like “1.SIT”, “2.SIT”, and so on. The loop starts at 0 and runs while i is less than 5. Inside the loop, i+1 is used so the numbering starts from 1 instead of 0. It’s a simple way to understand how loops work and how to combine text with numbers in output.
 
 #Program 3  Use of continue in loops
