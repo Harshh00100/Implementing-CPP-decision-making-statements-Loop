@@ -21,12 +21,13 @@ int main() {
     }
 return 0;
 }
-//output: enter the password : 
-//harsh
-//try again
-//enter the password : 
-//0010
-//try again
-//enter the password : 
-//007
-//correct!! 
+/*output: 
+enter the password : 
+harsh
+try again
+enter the password : 
+0010
+try again
+enter the password : 
+007
+correct!! */
